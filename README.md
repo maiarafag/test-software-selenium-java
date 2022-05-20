@@ -18,7 +18,7 @@
 
 # Objetivo
 <p>
- Fazer teste automatizado, em que pesquisa o termo "Desenvolvimento web" na página do Google e clica automaticamente no site de Wikipedia 
+ Fazer teste automatizado, na qual pesquisa o termo "Desenvolvimento web" na página do Google e clica automaticamente no site da Wikipedia em Desenvolvimento web
 </p>
 
 # Tecnologias
