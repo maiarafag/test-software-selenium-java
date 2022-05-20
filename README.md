@@ -8,7 +8,7 @@
  <a href="#sobre">Sobre</a> •
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#pre-requisitos">Pré Requisitos</a> • 
+ <a href="#pre-requisitos">Pré Requisitos</a> 
 
  
 </p>
